@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Ansie Lund
-> ![[Ansie Lund.png]]
+> ![[Ansie.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |

@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Charlotte Lacroix
-> ![[Charlotte Lacroix.png]]
+> ![[Charlotte.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |

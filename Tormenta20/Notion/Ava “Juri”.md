@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Ava “Juri”
-> ![[Ava “Juri”.png]]
+> ![[Ava.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |

@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Erebus “Língua solta”
-> ![[Erebus “Língua solta”.png]]
+> ![[Erebus.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |
