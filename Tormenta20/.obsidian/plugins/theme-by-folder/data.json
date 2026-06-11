@@ -1,0 +1,19 @@
+{
+  "mappings": [
+    {
+      "name": "CdR",
+      "folder": "Coração de Rubi",
+      "theme": "ITS Theme",
+      "mode": ""
+    },
+    {
+      "name": "AdO",
+      "folder": "Ascenção da Ouroboros",
+      "theme": "Cyber Glow",
+      "mode": ""
+    }
+  ],
+  "defaultTheme": "",
+  "defaultMode": "",
+  "showNotifications": true
+}
