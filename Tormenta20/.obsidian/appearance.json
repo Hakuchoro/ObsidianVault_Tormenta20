@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Cyber Glow",
+  "accentColor": "#9a40ba",
+  "enabledCssSnippets": [
+    "sniped"
+  ],
+  "baseFontSize": 16,
+  "nativeMenus": false
+}
