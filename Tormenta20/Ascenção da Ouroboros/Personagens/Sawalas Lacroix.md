@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Sawalas Lacroix
-> ![[Sawalas Lacroix.png]]
+> ![[Sawalas.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |

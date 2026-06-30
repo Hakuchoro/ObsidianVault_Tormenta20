@@ -1,8 +1,9 @@
 
 > [!infobox|right]
 > # Eira “Pierrot”
-> ![[Eira “Pierrot”.png]]
->
+> ![[Eira.png]]
+> ![[Eira2.png]]
+>> 
 > ###### Informações Básicas
 > | Campo | Valor |
 > | ---- | ---- |

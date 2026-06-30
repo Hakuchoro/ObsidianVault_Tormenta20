@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Sylas Wesker
-> ![[Sylas Wesker.png]]
+> ![[Sylas.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |

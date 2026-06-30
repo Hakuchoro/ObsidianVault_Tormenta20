@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Rael Falk
-> ![[Rael Falk.png]]
+> ![[Rael.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |

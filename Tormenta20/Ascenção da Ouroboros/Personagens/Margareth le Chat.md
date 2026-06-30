@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Margareth le Chat
-> ![[Margareth le Chat.png]]
+> ![[Margareth.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |

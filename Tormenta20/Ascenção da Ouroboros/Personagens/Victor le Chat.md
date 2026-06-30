@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Victor le Chat
-> ![[Victor le Chat.png]]
+> ![[Victor.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |

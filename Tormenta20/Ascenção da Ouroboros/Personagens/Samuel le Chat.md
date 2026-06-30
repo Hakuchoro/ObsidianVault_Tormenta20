@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Samuel le Chat
-> ![[Samuel le Chat.png]]
+> ![[Samuel.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |

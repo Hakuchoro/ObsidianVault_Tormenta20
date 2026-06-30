@@ -1,7 +1,7 @@
 
 > [!infobox|right]
 > # Eloise Evans
-> ![[Eloise Evans.png]]
+> ![[Eloise.png]]
 >
 > ###### Informações Básicas
 > | Campo | Valor |
